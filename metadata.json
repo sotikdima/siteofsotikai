@@ -1,0 +1,6 @@
+{
+  "name": "СайтСотика",
+  "description": "Официальный сайт СайтСотика — портал Дмитрия Переднего (FSB Sotik), стримера Forza Motorsport и основателя команды FSB Racing. Поддержка через ЮMoney, Сбербанк, Т-Банк, ВТБ, DonationAlerts, DonateStream, CloudTips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
